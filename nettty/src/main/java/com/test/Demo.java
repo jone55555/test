@@ -22,6 +22,8 @@ public class Demo {
         }
         public void run() {
             System.out.println(name+"运行！");
+            System.out.println("MyRunable.run");
+
         }
     }
 
